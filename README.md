@@ -1,4 +1,1 @@
-# dev
-https://f2janyway.github.io/dev/index.html
-
-https://f2janyway.github.io/dev/f2j.html
+여러 테스트에 쓰이는 파일 저장소
