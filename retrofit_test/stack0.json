@@ -1,0 +1,18 @@
+ [
+   {
+    "categoryId": 0,
+    "categoryName": "string",
+    "ilmFinders": [
+    {
+    "eventId": 0,
+    "eventName": "string",
+    "eventLocation": "string",
+    "eventPhoto": {},
+    "eventDescription": "string",
+    "eventDate": "string",
+    "eventLink": "string",
+    "isFavourite": {}
+    }
+    ]
+   }
+  ]
