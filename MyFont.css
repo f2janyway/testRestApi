@@ -3,8 +3,8 @@
   /* src: url(assets/UNI_HSR.eot); */
   src: 
   /* url(assets/UNI_HSR.eot?#iefix) format('embedded-opentype'), */
-  url(assets/UNI_HSR.woff2) format('woff2'),
-  url(assets/UNI_HSR.woff) format('woff'),
+  url(UNI_HSR.woff2) format('woff2'),
+  url(UNI_HSR.woff) format('woff'),
   /* url(assets/UNI_HSR.ttf) format('truetype'), */
   url(assets/UNI_HSR.svg#UNI_HSR) format('svg');
 }
