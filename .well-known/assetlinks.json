@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "brace.formation.debug",
+    "sha256_cert_fingerprints":
+    ["D8:5A:C0:13:72:41:EC:4A:51:BF:CB:9C:77:DD:E8:59:76:D9:A8:F4:24:F0:21:6A:D5:A3:1E:B0:36:C5:41:6D"]
+  }
+}]
